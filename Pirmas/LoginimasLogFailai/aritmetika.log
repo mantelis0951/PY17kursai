@@ -1,0 +1,6 @@
+2023-09-26 11:52:38,497:ERROR:__main__:Dalyba is 0
+Traceback (most recent call last):
+  File "D:\Projects\Pirmas\LoginimasLogFailai\uzduotis1.py", line 45, in resultof
+    result = x/y
+             ~^~
+ZeroDivisionError: division by zero

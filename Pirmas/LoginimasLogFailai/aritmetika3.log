@@ -1,0 +1,30 @@
+2023-09-26 11:55:39,025:INFO:__main__:Musu skaiciai yra:(1, 4, 2, 5, 7, 8), ju suma yra: 27
+2023-09-26 11:55:39,025:ERROR:__main__:Irasytas ne skaicius
+Traceback (most recent call last):
+  File "D:\Projects\Pirmas\LoginimasLogFailai\uzduotis1.py", line 29, in sqrt
+    sqrt_number = math.sqrt(number)
+                  ^^^^^^^^^^^^^^^^^
+TypeError: must be real number, not str
+2023-09-26 11:55:39,027:INFO:__main__:Panaudotas zodis yra: (25, 'Labas, mano vardas Mantas') Simboliu sakinyje: None 
+2023-09-26 11:55:39,027:ERROR:__main__:Dalyba is 0
+Traceback (most recent call last):
+  File "D:\Projects\Pirmas\LoginimasLogFailai\uzduotis1.py", line 53, in resultof
+    result = x/y
+             ~^~
+ZeroDivisionError: division by zero
+2023-09-26 11:56:38,879:INFO:__main__:Panaudotas zodis yra: Labas, mano vardas Mantas Simboliu sakinyje: 25 
+2023-09-26 16:18:55,055:INFO:__main__:Panaudotas zodis yra: Labas, mano vardas Mantas Simboliu sakinyje: 25 
+2023-09-26 16:19:39,305:INFO:__main__:Musu skaiciai yra:(1, 4, 2, 5, 7, 8), ju suma yra: 27
+2023-09-26 16:19:39,305:ERROR:__main__:Irasytas ne skaicius
+Traceback (most recent call last):
+  File "D:\Projects\Pirmas\LoginimasLogFailai\uzduotis1.py", line 29, in sqrt
+    sqrt_number = math.sqrt(number)
+                  ^^^^^^^^^^^^^^^^^
+TypeError: must be real number, not str
+2023-09-26 16:19:39,307:INFO:__main__:Panaudotas zodis yra: Labas, mano vardas Mantas Simboliu sakinyje: 25 
+2023-09-26 16:19:39,308:ERROR:__main__:Dalyba is 0
+Traceback (most recent call last):
+  File "D:\Projects\Pirmas\LoginimasLogFailai\uzduotis1.py", line 53, in resultof
+    result = x/y
+             ~^~
+ZeroDivisionError: division by zero
